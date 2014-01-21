@@ -1,12 +1,13 @@
 spring-extra
 ============
 
-This project contains some not so important missimg features in spring framework
+This project contains some not so important missing features in spring framework
 
 1. Exception Handling
   
-    New custom HandlerExceptionResolver impelemntation was added to be able to define exception handler methods in
-    different classes(beans) with the ability to define concrete ones in controller classes with the help of new annotation.
+    New custom HandlerExceptionResolver implementation was added to be able to define exception handler methods in
+    separate classes(beans) with the ability to define concrete ones in controller classes with the help of new  	
+    annotation.
 		
 		EXAMPLE:
      
